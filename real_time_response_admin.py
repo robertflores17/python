@@ -1,5 +1,23 @@
 """CrowdStrike Falcon Real Time Response Administration API interface class.
 
+Real Time Response Options
+ * List and Kill Processes
+ * List and Delete Files
+ * Extract Files
+ * Edit Registry Values
+ * Dump Memory and Event Logs
+ * Show Network Connections
+ * Network Containment
+
+Complete EDR Solutions
+ * Detailed Detections
+ * Visual Process Tree
+ * File Hashes and Details
+ 
+Improved Defenses
+ * Hash Blacklisting
+
+
  _______                        __ _______ __        __ __
 |   _   .----.-----.--.--.--.--|  |   _   |  |_.----|__|  |--.-----.
 |.  1___|   _|  _  |  |  |  |  _  |   1___|   _|   _|  |    <|  -__|
